@@ -10,6 +10,15 @@ body {
 	margin: 0;
 	padding: 0;
 }
+h1,
+h2,
+legend {
+  font-family: 'Space Mono', monospace;
+}
+iframe {
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
 .wrapper {
 	background-color: #efb106;
 	display: flex;
